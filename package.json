@@ -1,0 +1,11 @@
+{
+  "name": "nft_whitelist_hardhat",
+  "version": "1.0.0",
+  "description": "Build an NFT collection with a whitelist using Hardhat and Solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
